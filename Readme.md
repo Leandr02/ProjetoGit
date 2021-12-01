@@ -1,2 +1,2 @@
-Olá esse projeto ensina você a usar o Git| att
-terceiro commit
+Olá esse projeto ensina você a usar o Git
+Alterando arquivo
